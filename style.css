@@ -1,8 +1,6 @@
 body {
   background: pink;
-}
-
-h1 {
+  h1 {
   color: blue;
   font-size: 3em; 
 }
@@ -21,3 +19,5 @@ h2 {
   background: #ccc;
   text-decoration: underline;
 }
+}
+
